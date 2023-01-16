@@ -21,7 +21,7 @@ As I and most people use WhatsApp for communication so they have already install
 
 Attaching Screenshots of the bot:
 1. Greeting Message
-<img src="https://github.com/gshubham533/FitZist/blob/main/Screenshot/1.%20Greeting%20Message.PNG" height="40%">
+<img src="https://github.com/gshubham533/FitZist/blob/main/Screenshot/1.%20Greeting%20Message.PNG" height="200">
 
 2. User selects one option
 ![User selects one option](https://github.com/gshubham533/FitZist/blob/main/Screenshot/2.%20User%20selects%20one%20option.PNG)
