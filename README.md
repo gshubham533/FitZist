@@ -2,7 +2,8 @@
 FitZist is a WhatsApp chatbot which provides Workout plans, Diet Plans, Inspiration Quotes and Notifies user to stay on track to workout regularly by sending notifications
 
 To access the Chatbot (Tap on the link below):
-wa.me/918459394734
+
+https://wa.me/918459394734
 
 Idea behind this project:
 I am a gym person. I like to workout 3 times a week.
