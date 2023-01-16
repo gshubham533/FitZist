@@ -24,26 +24,27 @@ Attaching Screenshots of the bot:
 <img src="https://github.com/gshubham533/FitZist/blob/main/Screenshot/1.%20Greeting%20Message.PNG" height="600">
 
 2. User selects one option
-![User selects one option](https://github.com/gshubham533/FitZist/blob/main/Screenshot/2.%20User%20selects%20one%20option.PNG)
+<img src="https://github.com/gshubham533/FitZist/blob/main/Screenshot/2.%20User%20selects%20one%20option.PNG" height="600">
 
 3. Asking user which body part workout plan he wants
-![Asking user which body part workout plan he wants](https://github.com/gshubham533/FitZist/blob/main/Screenshot/3.%20Asking%20user%20which%20body%20part%20workout%20plan%20he%20wants.PNG)
+<img src="https://github.com/gshubham533/FitZist/blob/main/Screenshot/3.%20Asking%20user%20which%20body%20part%20workout%20plan%20he%20wants.PNG" height="600">
 
 4. Selecting the body part
-![Selecting the body part](https://github.com/gshubham533/FitZist/blob/main/Screenshot/4.%20Selecting%20the%20body%20part.PNG)
+<img src="https://github.com/gshubham533/FitZist/blob/main/Screenshot/4.%20Selecting%20the%20body%20part.PNG" height="600">
 
 5. Sending an inspirational quote before starting off
-![Sending an inspirational quote before starting off](https://github.com/gshubham533/FitZist/blob/main/Screenshot/5.%20Sending%20an%20inspirational%20quote%20before%20starting%20off.PNG)
+<img src="https://github.com/gshubham533/FitZist/blob/main/Screenshot/5.%20Sending%20an%20inspirational%20quote%20before%20starting%20off.PNG" height="600">
 
 6. Starting with some warmup exercises
-![Starting with some warmup exercises](https://github.com/gshubham533/FitZist/blob/main/Screenshot/6.%20Starting%20with%20some%20warmup%20exercises.PNG)
+<img src="https://github.com/gshubham533/FitZist/blob/main/Screenshot/6.%20Starting%20with%20some%20warmup%20exercises.PNG" height="600">
 
 7. Starting workout exercises
-![Starting workout exercises](https://github.com/gshubham533/FitZist/blob/main/Screenshot/7.%20Starting%20workout%20exercises.PNG)
+<img src="https://github.com/gshubham533/FitZist/blob/main/Screenshot/7.%20Starting%20workout%20exercises.PNG" height="600">
+
 
 8. Stretching
-![Stretching 1](https://github.com/gshubham533/FitZist/blob/main/Screenshot/8.%20Stretching.PNG)
-![Stretching 2](https://github.com/gshubham533/FitZist/blob/main/Screenshot/9.%20Stretching2.PNG)
+<img src="https://github.com/gshubham533/FitZist/blob/main/Screenshot/8.%20Stretching.PNG" height="600">
+<img src="https://github.com/gshubham533/FitZist/blob/main/Screenshot/9.%20Stretching2.PNG" height="600">
 
 9. Workout ends and suggesting a song to listen while going back home
-![Workout ends and suggesting a song to listen while going back home](https://github.com/gshubham533/FitZist/blob/main/Screenshot/10.%20Workout%20ends%20and%20suggesting%20a%20song%20to%20listen%20while%20going%20back%20home.PNG)
+<img src="https://github.com/gshubham533/FitZist/blob/main/Screenshot/10.%20Workout%20ends%20and%20suggesting%20a%20song%20to%20listen%20while%20going%20back%20home.PNG" height="600">
